@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Parth673
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning BScIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (Github)
+- 👀 I’m interested in Data Sci and Animation
+- 🌱 I’m currently persuing BScIT
+- 💞️ I’m looking to collaborate on Data Science Proj...
+- ▶  YouTube: https://www.youtube.com/channel/UCy-L4tyXtulDPmKUOmb8iPA
 
-<!---
-Parth673/Parth673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Parth673
+muffymadam@gmail.com
